@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ghulamanwar44
 - 👀 I’m interested in Backend development, Debugging java products etc.
 - 🌱 I’m currently learning Advanced Java Skills
-- 💞️ I’m looking to collaborate on core Java Development, core java solutions etc.
+- 💞️ I’m looking to collaborate on Java Development, Java solutions, Spring, Spring Boot.
 - 📫 Email me at anwar50sw@gmail.com OR Whatsapp +923492616884
 
 <!---
